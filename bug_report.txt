@@ -1,0 +1,15 @@
+
+
+'Summary:'
+'Envirouments'
+'Severity'
+'Priority:'
+'Preconditions:'
+'Steps to reproduce:'
+ '1.'
+ '2.'
+ '3.'
+'Actual result'
+'Expected result'
+'Attachment'
+
